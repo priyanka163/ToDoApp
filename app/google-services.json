@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478206569784",
+    "project_id": "splash-project-158309"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478206569784:android:63fddd2f5ca283bb",
+        "android_client_info": {
+          "package_name": "com.example.next.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478206569784-hjnvbbraiseqs0ec250anl9tmqkdjopr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUn51tcPU71vmJgqQuG103GTK7I7sxF5M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

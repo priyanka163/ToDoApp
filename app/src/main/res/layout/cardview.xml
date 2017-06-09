@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.pranapps.testontouch.CardViewTouchThief xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:id="@+id/mycardview"
+    card_view:cardUseCompatPadding="true">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/myListView"
+        android:dividerHeight="0.2dp"
+        android:overScrollMode="always"
+        android:smoothScrollbar="true"
+        android:groupIndicator="@null"/>
+
+</com.pranapps.testontouch.CardViewTouchThief>
